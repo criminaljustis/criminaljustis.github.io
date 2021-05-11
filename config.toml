@@ -81,7 +81,7 @@ name = "Github"
 icon = "github"
 url = "https://github.com/criminaljustis"
 
-[[params.social]]
+#[[params.social]]
 #name = "Twitter"
 #icon = "twitter"
 #url = "https://twitter.com/criminaljustis"
