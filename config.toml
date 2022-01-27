@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "The Justis Zone"
 theme = "ezhil"
 
-copyright = "©2021 Justis"
+copyright = "©2022 Justis"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
