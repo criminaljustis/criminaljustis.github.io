@@ -9,7 +9,9 @@ tags: [podcast]
 ## Current Info
 
 Listening to: Rx Bandits
+
 Writing habits: Ha. Funny joke, me.
+
 Status: Headcold - minus two constitution and wisdom. Minus one intelligence.
 
 So, I [have a podcast now](https://www.fugazipod.com)? I'm actually really happy with the name as the creative process about what the show could be was stuck on "what on earth do we call this?" Most of the creative process has been the two of us drinking beers and talking for years about various things but, we never really tried to structure the conversation before. I love me a good wordsmithing. I can spend whole minutes wordsmithing a whole sentence into a fine edge that I can be proud of. The difference with a podcast is that the thoughts that leave my mouth have to be good the first-ish time. I've never let perfect be the enemy of good enough for anything I've ever done (you're reading this, aren't you) but, it's a real struggle when I go back and listen to myself and regret absolutely every dumb fuckin' thing I have ever said out loud to other humans for my entire life. I have to operate under the assumption that this is _normal_ for starting your very first ever podcast.
