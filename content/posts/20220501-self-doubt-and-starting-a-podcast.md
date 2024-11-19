@@ -2,7 +2,6 @@
 title: "Self Doubt and Starting a Podcast"
 date: 2022-05-01T21:40:00Z
 description: "What if instead of edited words, I just recorded myself too?"
-draft: false
 tags: [podcast]
 ---
 

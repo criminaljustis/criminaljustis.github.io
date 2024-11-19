@@ -2,7 +2,6 @@
 title: "The Active Reload in Returnal Should Feel Better"
 date: 2021-05-12T21:07:33Z
 description: "You have these fancy triggers, use 'em!"
-draft: false
 tags: [video games]
 ---
 
