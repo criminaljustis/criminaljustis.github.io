@@ -55,7 +55,7 @@ pygmentsCodefencesGuessSyntax = true
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Justis"
   github = "criminaljustis"
-  bluesky = "criminaljustis.bsky.social"
+  bluesky = "justis.zone"
 
 [[menu.main]]
     name = "Blog"
