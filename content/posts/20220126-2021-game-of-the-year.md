@@ -1,7 +1,7 @@
 ---
 title: "2021 Game of the Year"
 date: 2022-01-26T22:00:00Z
-description: "I made these lists. Read them?"
+subtitle: "I made these lists. Read them?"
 tags: [video games]
 ---
 
