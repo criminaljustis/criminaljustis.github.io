@@ -1,5 +1,5 @@
 ---
-title: "20250121 Starting a Journal"
+title: "Starting a Journal"
 date: 2025-01-21T14:33:43-05:00
 subtitle: "A New Goal I'm setting for 2025 that isn't related to my job, books, fitness, or mental health!"
 tags: [journal]
