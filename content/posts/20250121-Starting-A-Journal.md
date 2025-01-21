@@ -5,7 +5,7 @@ subtitle: "A New Goal I'm setting for 2025 that isn't related to my job, books, 
 tags: [journal]
 ---
 
-One of the things I've joked about making a blog for as well as doing much of any sort of writing has been looking for a way to "find my voice" or the like. When I talk, I _personally_ tend to like how I sound. That said, I am bad at having things to say that I think are "important." This year, I have decided to change all of that by the Practice of Writing Down Dumb Shit. That's right, I started a Journal. 
+One of the things I've "joked about" when I justify making a blog post or when I do much of any sort of writing has been "to find my voice". When I talk, I _personally_ tend to like how I sound. That said, I am bad at having things to say that I think are "important." This year, I have decided to change all of that with the Practice of Writing Down Dumb Shit. That's right, I started a Journal. 
 
 I'm not doing any of these specific journal types or taking pictures and pasting them in, or really any of the things that make journals more artful and expressive. I am literally attempting to fill exactly One Page most days about mostlt nothing. No more than One page either. I want to specificaly attempt to keep it as easy as possible on my at this point in time. 
 
