@@ -1,5 +1,5 @@
 ---
-title: "20250520 Mid Year Checkin"
+title: "Mid Year Checkin"
 date: 2025-05-20T13:28:15-04:00
 subtitle: "Are we there yet? It's not even the middle of the year."
 tags: [journal]
